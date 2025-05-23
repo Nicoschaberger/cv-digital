@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cv-digital/static/css/main.1c262246.css",
+    "main.js": "/cv-digital/static/js/main.7d6f19ae.js",
+    "index.html": "/cv-digital/index.html",
+    "main.1c262246.css.map": "/cv-digital/static/css/main.1c262246.css.map",
+    "main.7d6f19ae.js.map": "/cv-digital/static/js/main.7d6f19ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c262246.css",
+    "static/js/main.7d6f19ae.js"
+  ]
+}
